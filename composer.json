@@ -1,0 +1,20 @@
+{
+    "name": "gufy/cpanel-php",
+    "description": "Cpanel/WHM API for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fafan",
+            "email": "fafan.art@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Fafan\\CpanelPhp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
