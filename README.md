@@ -1,4 +1,8 @@
+[![Code Climate](https://codeclimate.com/github/fafan/cpanel-php/badges/gpa.svg)](https://codeclimate.com/github/fafan/cpanel-php)
+[![Test Coverage](https://codeclimate.com/github/fafan/cpanel-php/badges/coverage.svg)](https://codeclimate.com/github/fafan/cpanel-php/coverage)
+[![Issue Count](https://codeclimate.com/github/fafan/cpanel-php/badges/issue_count.svg)](https://codeclimate.com/github/fafan/cpanel-php)
 # CPanel/WHM API for PHP library
+
 
 NOTE: This library is modified from original code of gufy/cpanel-php
 
